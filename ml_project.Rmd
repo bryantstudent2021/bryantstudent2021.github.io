@@ -1,7 +1,7 @@
 ---
-title: "My Research Projects"
+title: "Machine Learnning Project"
 author: "Son Nguyen"
-
+date: "9/15/2021"
 output: html_document
 ---
 
@@ -9,11 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Table of Content
-
-## Machine Learning Project
-
-For more detail, please click to this: [Link](ml_project.html)
+## R Markdown
 
 This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
